@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @KravKo
-- 👀 I’m interested in Game Dev in UNITY
-- 🌱 I’m currently learning UNITY
-- Discord:- KravKo#9186
-
-Making Games Is Fun!!
+- 👋 Hi, I’m Krishav, all the way from nepal,
+- 👀 I’m interested in Web development, Game Dev in UNITY, 
+- 🌱 I’m currently learning node.js.
