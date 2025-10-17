@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Krishav, all the way from nepal,
-- 👀 I’m interested in Web development, Game Dev in UNITY, 
-- 🌱 I’m currently learning node.js.
+
